@@ -36,7 +36,7 @@ Host: localhost
 Porta: 5432
 Nome do Banco de Dados: postgres
 Usuário: postgres
-Senha: postgres
+Senha: mysecretpassword
 Outras Configurações
 A aplicação Spring Boot pode ser configurada no arquivo application.properties ou application.yml no diretório src/main/resources.
 
